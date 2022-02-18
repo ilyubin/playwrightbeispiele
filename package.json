@@ -1,0 +1,21 @@
+{
+  "name": "playwrightbeispiele",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyubin/playwrightbeispiele.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyubin/playwrightbeispiele/issues"
+  },
+  "homepage": "https://github.com/ilyubin/playwrightbeispiele#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.19.1"
+  }
+}
